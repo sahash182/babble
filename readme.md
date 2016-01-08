@@ -1,1 +1,1 @@
-This is a simple chat app.
+This is a AngularJS Chat App.
